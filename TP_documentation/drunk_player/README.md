@@ -20,7 +20,7 @@ Drunk_player utilise la bibliothèque de traitement d'image OpenCV et est compos
 
 ```
 mkdir build
-**cd** build
+__cd__ build
 cmake ..
-**make**
+__make__
 ```
